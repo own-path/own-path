@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hi+There!+%F0%9F%91%8B;I'm+Own+Path;AI%2FML+Engineer+%F0%9F%A4%96;Mech+Interp+Researcher+%F0%9F%94%AC;Unveiling+Intelligence" alt="Typing animation" />
 </h1>
 
-<h3 align="center">🇨🇦 AI/ML Engineer | Mechanistic Interpretability Researcher | MATS Autumn 2026</h3>
+<h3 align="center">🇨🇦 AI/ML Engineer | Mechanistic Interpretability Researcher | Autonomous AI Systems</h3>
 
 <p align="center">
   I take language models apart to understand how they work, and build the tools and agents that make that research faster.
@@ -16,18 +16,20 @@
 
 ## 🎓 About Me
 
-- 🔬 **MATS Autumn 2026** — Empirical track researcher
 - 🧪 **Co-founder of 4thWall Labs** — an AI safety studio doing mechanistically-informed alignment research
 - 🎓 **MS in Data Science** at the University of Pittsburgh
 - 🌍 **Languages:** English & French
 
 ## 💼 Experience
 
-**Co-founder & Researcher @ 4thWall Labs** · *Present*
-Building `[un]veil`, an autonomous agent that runs interpretability experiments on model internals.
+**ML Engineer @ CIBC** · *Aug 2026 – Present*<br/>
+Building machine learning systems for the bank.
 
-**Insights Analyst Intern, AI Team @ Simplii Financial (CIBC)**
-Built NLP classification systems and CX ThemeLens, a contact-centre analytics tool in Databricks.
+**Insights Analyst Intern, AI Team @ Simplii Financial** · *May – Aug 2026*<br/>
+Built NLP classifiers and a contact-centre analytics tool in Databricks.
+
+**Co-founder @ 4thWall Labs** · *Present*<br/>
+Building `[un]veil`, an autonomous interpretability research agent.
 
 ---
 
@@ -48,15 +50,15 @@ Built NLP classification systems and CX ThemeLens, a contact-centre analytics to
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Project
 
-| Project | Description |
-|---|---|
-| 🔬 [**[un]veil**](https://github.com/own-path/unveil-public) | Autonomous interpretability agent — probes model internals in an automated research loop |
-| 🌐 **polyterp** | Multilingual interpretability CLI (EN/FR) on BLOOM-560m |
-| ⏱️ **tempo** | Experiment tracking CLI for research workflows |
-| 🧊 **Glass Box** | Fine-tuning visualization on a hybrid Mamba-Transformer (HF Build Small Hackathon) |
-| 🗺️ [**Meridian**](https://github.com/own-path/6ixPulse) | 3D map of the Toronto rental market |
+### 🔬 [[un]veil](https://github.com/own-path/unveil-public)
+
+An autonomous research agent for mechanistic interpretability: it probes model internals, runs experiments, and writes up what it finds.
+
+<a href="https://github.com/own-path/unveil-public">
+  <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github" />
+</a>
 
 ---
 
