@@ -28,7 +28,7 @@ Building machine learning systems for the bank.
 **Insights Analyst Intern, AI Team @ Simplii Financial** · *May – Aug 2026*<br/>
 Built NLP classifiers and a contact-centre analytics tool in Databricks.
 
-**Co-founder @ 4thWall Labs** · *Present*<br/>
+**Founder @ 4thWall Labs** · *Present*<br/>
 Building `[un]veil`, an autonomous interpretability research agent.
 
 ---
