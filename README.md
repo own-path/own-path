@@ -2,8 +2,7 @@
 
 <h1 align="center">
   <img src="assets/avatar.jpg" width="150" height="150" alt="Own Path" />
-  <br/>
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hi+There!+%F0%9F%91%8B;I'm+Own+Path;AI%2FML+Engineer+%F0%9F%A4%96;Mech+Interp+Researcher+%F0%9F%94%AC;Unveiling+Intelligence" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=false&vCenter=true&width=460&height=150&duration=5000&lines=Hi+There!+%F0%9F%91%8B;I'm+Own+Path;AI%2FML+Engineer+%F0%9F%A4%96;Mech+Interp+Researcher+%F0%9F%94%AC;Unveiling+Intelligence" width="460" height="150" alt="Typing animation" />
 </h1>
 
 <h3 align="center">🇨🇦 AI/ML Engineer | Mechanistic Interpretability Researcher | Autonomous AI Systems</h3>
