@@ -1,6 +1,12 @@
-# Hi, I'm Daryl 👋
+<p align="center">
+  <img src="assets/avatar.jpg" width="150" height="150" alt="Avatar" />
+</p>
 
-AI/ML engineer and mechanistic interpretability researcher, based in Ontario 🇨🇦
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hi+there!+%F0%9F%91%8B;I'm+Daryl;AI%2FML+Engineer;Mech+Interp+Researcher" alt="Typing animation" />
+</p>
+
+<p align="center">AI/ML engineer and mechanistic interpretability researcher, based in Ontario 🇨🇦</p>
 
 - 🔬 **MATS Autumn 2026** — Empirical track researcher
 - 🧪 **Co-founder, 4thWall Labs** — an AI safety studio doing mechanistically-informed alignment research
