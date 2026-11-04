@@ -16,7 +16,7 @@
 
 ## 🎓 About Me
 
-- 🧪 **Co-founder of 4thWall Labs** — an AI safety studio doing mechanistically-informed alignment research
+- 🧪 **Founder of 4thWall Labs** — an AI safety studio doing mechanistically-informed alignment research
 - 🎓 **MS in Data Science** at the University of Pittsburgh
 - 🌍 **Languages:** English & French
 
